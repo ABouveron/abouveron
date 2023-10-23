@@ -33,9 +33,6 @@ Final year **IT engineering** student specialized in **cybersecurity**, currentl
     <a class="left_img" href="https://github.com/ABouveron/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api?username=abouveron&theme=transparent&show_icons=true&hide=issues,contribs&rank_icon=github"  alt="ABouveron's GitHub Stats"/>
     </a>
-    <a href="https://github.com/ABouveron/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api/wakatime?username=ABouveron&theme=transparent&layout=compact&langs_count=5"  alt="ABouveron's Wakatime Stats"/>
-    </a>
 </div>
 <div class="center_solo">
     <a href="https://github.com/ABouveron/github-readme-stats">
