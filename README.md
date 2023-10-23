@@ -1,20 +1,3 @@
-<style>
-.center_duo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-}
-.center_solo {
-    display: block;
-    text-align: center;
-    margin-top: 10px;
-}   
-.left_img {
-    margin-right: 10px;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Armand Bouveron</h1>
 
 ## About me
@@ -29,13 +12,11 @@ Final year **IT engineering** student specialized in **cybersecurity**, currentl
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouveron&theme=dracula&no-frame=true" alt="abouveron" /></a>
 </div>-->
 
-<div class="center_duo">
-    <a class="left_img" href="https://github.com/ABouveron/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api?username=abouveron&theme=transparent&show_icons=true&hide=issues,contribs&rank_icon=github"  alt="ABouveron's GitHub Stats"/>
-    </a>
-</div>
-<div class="center_solo">
+<p align="center">
     <a href="https://github.com/ABouveron/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api/top-langs/?username=abouveron&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=5&theme=transparent"  alt="ABouveron's Most Used Languages"/>
+      <img align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api?username=abouveron&theme=transparent&show_icons=true&hide=issues,contribs&rank_icon=github" alt="ABouveron's GitHub Stats"/>
     </a>
-</div>
+    <a href="https://github.com/ABouveron/github-readme-stats">
+      <img align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api/top-langs/?username=abouveron&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=5&theme=transparent" alt="ABouveron's Most Used Languages"/>
+    </a>
+</p>
