@@ -8,10 +8,6 @@ Final year **IT engineering** student specialized in **cybersecurity**, currentl
 
 ## Stats
 
-<!--<div class="center_solo">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouveron&theme=dracula&no-frame=true" alt="abouveron" /></a>
-</div>-->
-
 <p align="center">
     <a href="https://github.com/ABouveron/github-readme-stats">
       <img align="center" src="https://github-readme-stats-ep5itkshk-abouverons-projects.vercel.app/api?username=abouveron&theme=transparent&show_icons=true&hide=issues,contribs&rank_icon=github" alt="ABouveron's GitHub Stats"/>
